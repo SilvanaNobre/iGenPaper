@@ -1,0 +1,5 @@
+{
+  "DBAArea": "1",
+  "DBFile": "PulpMath.db",
+  "db_root": "sqlite:///db/{0}"
+}
