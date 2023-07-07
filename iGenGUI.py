@@ -293,7 +293,7 @@ if __name__ == '__main__':
    iGenNodes = '.'
 
    # available databases
-   dbOptions = ['Pulp.db','American.db']
+   dbOptions = ['Coppice.db','Pennsylvania.db']
 
    #connect to the json database
    iGenParams('RomeroInitData.json')

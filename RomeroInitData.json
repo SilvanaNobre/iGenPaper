@@ -1,5 +1,5 @@
 {
   "DBAArea": "1",
-  "DBFile": "Pulp.db",
+  "DBFile": "Coppice.db",
   "db_root": "sqlite:///db/{0}"
 }
